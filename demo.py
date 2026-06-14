@@ -7,4 +7,4 @@ if st.button("CLICK"):
 b=st.selectbox("your fav item ",["phone","laptop","tablete"])
 st.write("ITEM is := " + b)
 c= st.slider("your age =",1,100)
-st.write("your age:="c)
+st.write("your age:="{c})
